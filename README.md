@@ -2,6 +2,12 @@
 
 My name is **Nguyen Tran Hau**, and that's it :D
 
-I'm not good at introduce myself, so I guess you explore my repositories instead ^_^.
+I'm not good at introduce myself, so I guess you explore my repositories instead ^\_^.
 
-![haunt98's github stats](https://github-readme-stats.vercel.app/api?username=haunt98&count_private=true)
+## Projects
+
+- [Today I learned](https://github.com/haunt98/til)
+- [Dotfiles](https://github.com/haunt98/dotfiles)
+- [Changeloguru](https://github.com/haunt98/changeloguru)
+- [gitu](https://github.com/haunt98/gitu)
+- [go-test-color](https://github.com/haunt98/go-test-color)
