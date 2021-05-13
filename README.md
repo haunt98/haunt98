@@ -20,4 +20,5 @@ I'm not good at introducing myself, so welcome and take a look at my projects in
 - [clock](https://github.com/haunt98/clock)
 - [color](https://github.com/haunt98/color)
 - [xdg](https://github.com/haunt98/xdg)
+- [sling](https://github.com/haunt98/sling)
 - [telex-go](https://github.com/haunt98/telex-go)
