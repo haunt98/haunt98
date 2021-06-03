@@ -17,6 +17,7 @@ I'm not good at introducing myself, so welcome and take a look at my projects in
 - [Breaker](https://github.com/haunt98/breaker)
 - [copy-go](https://github.com/haunt98/copy-go)
 - [markdown-go](https://github.com/haunt98/markdown-go)
+- [rst-go](https://github.com/haunt98/rst-go)
 - [clock](https://github.com/haunt98/clock)
 - [color](https://github.com/haunt98/color)
 - [xdg](https://github.com/haunt98/xdg)
