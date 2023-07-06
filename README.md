@@ -1,11 +1,14 @@
 # Hi Universe
 
-My name is **Nguyen Tran Hau**.
+My name is **Hau Nguyen**.
 
-I'm not good at introducing myself, so welcome and take a look at my projects instead.
+Super Junior backend developer ahead, so welcome and take a look at my projects.
 
 ## Projects
 
-- [Today I learned](https://github.com/haunt98/til)
+- [Blog](https://haunt98.github.io/posts-go/)
 - [Dotfiles](https://github.com/haunt98/dotfiles)
-- [Changeloguru](https://github.com/haunt98/changeloguru)
+- [changeloguru](https://github.com/haunt98/changeloguru)
+- [go-test-color](https://github.com/haunt98/go-test-color)
+- [gofimports](https://github.com/haunt98/gofimports)
+- [update-go-mod](https://github.com/haunt98/update-go-mod)
